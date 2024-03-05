@@ -8,23 +8,23 @@
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "/logomain.png",
+        "src": "/Web-frontend/logomain.png",
         "type": "image/png", "sizes": "1251x1251"
       },
       {
-        "src": "/logo512.png",
+        "src": "/Web-frontend/logo512.png",
         "type": "image/png", "sizes": "512x512"
       }
     ],
     "screenshots": [
         {
-          "src": "/screenshot1.jpg",
+          "src": "/Web-frontend/screenshot1.jpg",
           "type": "image/jpg",
           "sizes": "1400x1340",
           "form_factor": "narrow"
         },
         {
-          "src": "/screenshot2.jpg",
+          "src": "/Web-frontend/screenshot2.jpg",
           "type": "image/jpg",
           "sizes": "1128x752",
           "form_factor": "wide"
