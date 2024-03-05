@@ -1,7 +1,7 @@
 {
     "name": "NewMarket",
     "short_name": "NewMarket",
-    "start_url": "/",
+    "start_url": "/Web-frontend",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
